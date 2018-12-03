@@ -19,6 +19,7 @@ namespace Ex32_LinkedList
             Nr = 0;
         }
 
+        ww
         public string ToString()
         {
 
